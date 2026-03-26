@@ -1,5 +1,5 @@
 
-**Github**: https://github.com/PaulleDemon/awesome-landing-pages
+**Github**: https://github.com/CannonMedComm/Clinical-Research
 
 ## Usage
 
